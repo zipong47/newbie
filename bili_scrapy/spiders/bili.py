@@ -17,4 +17,5 @@ def parse(self, response):
         # 输出信息
         self.log(f'Title: {title}, Rank1: {rank1}, Rank2: {rank2}, Fluctuation: {fluctuation}')
 
+    
         # 如果需要将结果存储在文件或数据库中，可以在这里实现
